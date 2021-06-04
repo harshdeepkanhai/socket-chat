@@ -2,5 +2,7 @@
     "name": "socket-chat-kanhai",
     "version": "0.0.1",
     "description": "kanhai socket app for chat",
-    "dependencies": {}
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
