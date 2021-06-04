@@ -2,6 +2,15 @@
 
 A chat messaging implemented in Node, Express and Socket.io
 
+## Requirements
+- `node` and `npm`
+
+## How to run
+- clone this repo
+- run `npm install` in the cloned repo
+- run `node index.js`
+
+
 ## TODO
  
  - [ ] Broadcast a message to connected users when someone connects or disconnects.
